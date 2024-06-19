@@ -22,19 +22,17 @@ Visualization: Draws bounding boxes around detected individuals and highlights t
 5. imutils
 
 # Download Links for YOLO and COCO Files
-YOLOv3 Configuration and Weights
-YOLOv3 Configuration File (yolov3.cfg)
 
 # Download yolov3.cfg
-YOLOv3 Weights File (yolov3.weights)
+[YOLOv3 Configuration File (yolov3.cfg)](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
 
 # Download yolov3.weights
 COCO Class Labels
-COCO Names File (coco.names)
+[DOWNLOAD yolov3.weights](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov3.weights)
 
 # Download coco.names
 Instructions to Download
-Download yolov3.cfg
+[Download yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
 
 # Visit the link.
 Click on the "Raw" button to view the raw text.
